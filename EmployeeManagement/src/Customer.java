@@ -8,10 +8,13 @@ public class Customer {
     private String company;
     private int orderID;
 
-    public Customer(int customerID, int orderID){
+    public Customer(int customerID, String customerName, String company){
         this.customerID = customerID;
-        this.orderID = orderID;
+        this.customerName = customerName;
+        this.company = company;
 
     }
+
+
 
 }

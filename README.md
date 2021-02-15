@@ -1,2 +1,3 @@
 # EmployeeManagementSystem
-Manage employees and tasks in one platform
+Warehouse Management System.
+-Utilizes basic principles of OOP
